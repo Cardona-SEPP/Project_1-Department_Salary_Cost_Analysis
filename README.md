@@ -40,11 +40,6 @@ Which departments contribute the most to total payroll, and how is salary cost d
 ### Output Example (sample)
 <img width="648" height="133" alt="image" src="https://github.com/user-attachments/assets/a20c3b6d-7ba0-4739-9c12-28c63f586b98" />
 
-|department_id| department_name | total_salary | headcount | avg_salary | pct_of_total_payroll | row_num|
-|1          | Parks and Recreation |   395000   |     7     |    56429   |       57.50         |     1  |
-|3          | Public Works         |   147000   |     2     |    73500   |       21.40         |     2   
-|6          | Finance              |   70000    |     1     |    70000   |       10.19         |     3
----
 
 ## Tools Used
 - MySQL Workbench
